@@ -1,0 +1,14 @@
+[
+  {
+    "serviceId": "balayage",
+    "stylistId": "alexis",
+    "date": "2099-12-22",
+    "time": "12:00",
+    "email": "jamie@example.com,",
+    "phone": "602-555-9900",
+    "clientName": "Jamie Roe",
+    "id": "WY-W58D1X",
+    "createdAt": "2026-03-05T07:15:23.801Z",
+    "status": "confirmed"
+  }
+]
